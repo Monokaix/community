@@ -28,6 +28,13 @@ The goal of the community is to develop a volcano system which is useful for run
 
 - See [Community Membership](./community-membership.md) for a list of various community roles. With gradual contributions, one can move up in the chain.
 
+## License compliance Rules
+
+Please ensure that you have read the license-lint
+
+It specifies that licenses listed in the "restrictions" section cannot be used in the kurator project. Licenses in the "reciprocal_licenses" section can be used but modifications are not permitted.
+
+If you need to use a license that is not included in either section, please open a Pull Requests for discussion.
 
 # Getting started
 
